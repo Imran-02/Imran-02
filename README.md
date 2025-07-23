@@ -1,8 +1,8 @@
-<h1 align="center" style="font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+<h1  style="font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
 ">👋 Hey there, I'm <span style="font-family: 'Segoe UI', sans-serif;">Shaik Imran</span> !!</h1>
 
-<div align="center" style="font-family: 'Segoe UI', 'Open Sans', 'Arial', sans-serif;">
-  <p align="center">
+<div  style="font-family: 'Segoe UI', 'Open Sans', 'Arial', sans-serif;">
+  <p>
   🎓 <strong>Dual Degree in Biotechnology Biosciences</strong> @ <strong>IIT Madras</strong> (2022–2027 Batch)<br/>
   💼 <strong>Software Engineer</strong> | Full-Stack Developer<br/>
   Backend Developer | Frontend Developer | Python Developer<br/>
@@ -14,7 +14,7 @@
 
 
 
-<p align="center" style="font-family: 'Segoe UI', 'Open Sans', 'Arial', sans-serif;">
+<p  style="font-family: 'Segoe UI', 'Open Sans', 'Arial', sans-serif;">
   <a href="mailto:shaiknarmi002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/imran02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Imran-02" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
