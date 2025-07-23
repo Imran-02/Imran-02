@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
 ">👋 Hey there, I'm <span style="font-family: 'Segoe UI', sans-serif;">Shaik Imran</span> !!</h1>
 
-<div align="center" style="font-family: 'Segoe UI', 'Open Sans', 'Arial', sans-serif; font-size: 16px;">
+<div align="center" style="font-family: 'Segoe UI', 'Open Sans', 'Arial', sans-serif;">
   <p align="center">
   🎓 <strong>Dual Degree in Biotechnology Biosciences</strong> @ <strong>IIT Madras</strong> (2022–2027 Batch)<br/>
   💼 <strong>Software Engineer</strong> | Full-Stack Developer<br/>
