@@ -1,13 +1,20 @@
-<h1 align="center">👋 Hey there, I'm <span style="font-family: 'Segoe UI', sans-serif;">Shaik Imran</span> !!</h1>
+<h1 align="center" style="font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+">👋 Hey there, I'm <span style="font-family: 'Segoe UI', sans-serif;">Shaik Imran</span> !!</h1>
 
-<h3 align="center">
-🎓 Dual degree in Biotechnology Biosciences @ <b>IIT Madras</b> (2022-2027 Batch) <br/>
-<!-- 🎓 B.Tech (Honors) in CSE @ <b>KIIT University</b> (2022 Batch) <br/> -->
-💼 <b>Software Engineer</b> | Full-Stack Developer | Backend Developer | Frontend Developer | Python Developer <br/>
-🌱 Turning Ideas into Code | Building Reliable, Scalable Systems
-</h3>
+<div align="center" style="font-family: 'Segoe UI', 'Open Sans', 'Arial', sans-serif; font-size: 16px;">
+  <p align="center">
+  🎓 <strong>Dual Degree in Biotechnology Biosciences</strong> @ <strong>IIT Madras</strong> (2022–2027 Batch)<br/>
+  💼 <strong>Software Engineer</strong> | Full-Stack Developer<br/>
+  Backend Developer | Frontend Developer | Python Developer<br/>
+  🌱 Turning Ideas into Code | Building Reliable, Scalable Systems
+</p>
 
-<p align="center">
+</div>
+
+
+
+
+<p align="center" style="font-family: 'Segoe UI', 'Open Sans', 'Arial', sans-serif;">
   <a href="mailto:shaiknarmi002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/imran02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Imran-02" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -18,20 +25,26 @@
 
 
 ---
+<div style="font-family: 'Segoe UI', 'Open Sans', 'Arial', sans-serif;">
 
-## 🧠 About Me
+<h2 style="font-size: 26px">🧠 About Me</h2>
 
-- 💻 Passionate about **Software Engineering** and **Full-stack Web Development**
-- 🔨 Experienced in building robust applications using `Next.js`, `React.js`, `Node.js`, `Firebase`, and more
-- 🐍 Proficient in `Python` and `C++` for both backend systems and scripting solutions
-- 📚 Always learning and exploring new tech to solve real-world problems
-- ✨ Believe in writing clean, maintainable code and building for performance
+<ul>
+  <li>💻 Passionate about <strong>Software Engineering</strong> and <strong>Full-stack Web Development</strong></li>
+  <li>🔨 Experienced in building robust applications using <code>Next.js</code>, <code>React.js</code>, <code>Node.js</code>, <code>Firebase</code>, and more</li>
+  <li>🐍 Proficient in <code>Python</code> and <code>C++</code> for both backend systems and scripting solutions</li>
+  <li>📚 Always learning and exploring new tech to solve real-world problems</li>
+  <li>✨ Believe in writing clean, maintainable code and building for performance</li>
+</ul>
+
+</div>
+
 
 
 ---
 <h2  style="font-size: 32px;">🛠️ Tech Stack</h2>
 
-<div>
+<div style="ont-family: 'Segoe UI', 'Open Sans', 'Arial', sans-serif">
 
 ### 💻 Programming Languages
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
